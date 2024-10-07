@@ -10,10 +10,9 @@ FC25 game in 4 clusters, using the "k-means" algorithm with 4 variants of this a
 measures to assess similarity, (Euclidean, Mahalanobis and L1 or Manhattan). You can read more about
 of the project in "informe.pdf"
 
-<img align= "right" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlwOGE2MXhuaGh2b2htcWw2MmUxeDQ2c3h1OWl6NDQzcWM2c2t5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qwtw3GTvRg8LxKaUet/giphy.gif" width = "345" >
+<img align= "right" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlwOGE2MXhuaGh2b2htcWw2MmUxeDQ2c3h1OWl6NDQzcWM2c2t5MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qwtw3GTvRg8LxKaUet/giphy.gif" width = "245" >
+<img align= "right" src = "https://media.giphy.com/media/BdJJoaoMaUmnS/giphy.gif?cid=ecf05e4775sa8jzpepscv4fn07l3n40578tmwi2a0xtxvizg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "245" >
 
-
-<img align= "left" src = "https://media.giphy.com/media/BdJJoaoMaUmnS/giphy.gif?cid=ecf05e4775sa8jzpepscv4fn07l3n40578tmwi2a0xtxvizg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "345" >
 ## Algunas Herramientas / Some Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
